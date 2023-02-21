@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Mason A. Wirtz
 
-Mason Wirtz is a PhD candidate in the Department of German Language and Literatures. 
+Mason Wirtz is a PhD candidate at the Department of German Language and Literatures. 
 
 E-Mail: mason.wirtz@plus.ac.at
 
@@ -31,7 +31,7 @@ E-Mail: mason.wirtz@plus.ac.at
 
 ## Eugen Unterberger
 
-Eugen Unterberger is a PhD candidate in the Department of German Language and Literatures.
+Eugen Unterberger is a PhD candidate at the Department of German Language and Literatures.
 
 E-Mail: eugen.unterberger@plus.ac.at
 
@@ -47,7 +47,7 @@ E-Mail: eugen.unterberger@plus.ac.at
 
 ## Birgit Füreder
 
-Birgit Füreder is a PhD candidate in the Department of Romance Languages. 
+Birgit Füreder is a PhD candidate at the Department of Romance Languages. 
 
 E-Mail: birgitursula.fuereder2@plus.ac.at
 
