@@ -35,12 +35,12 @@ This lecture series is <u>open to all interested researchers at the University o
 
 ## Schedule 
 
-Navigate this interactive schedule to find information on the `lecturer`, `date`, `University of employment`, `topic`, `title`, and `room number`. 
+Navigate this interactive schedule to find information on the `lecturer`, `date`, `time`, `room number`, `University of employment`, `title`, and `topic`. 
 
 ```{r,  message = FALSE, warning = FALSE, echo=FALSE}
 
 schedule = tibble(
-  Name = c("Kate STONE", 
+  Lecturer = c("Kate STONE", 
            "Yves SCHERRER", 
            "Laura ROSSEEL"), 
   Date = c("04. MAY, 2023", 
@@ -52,7 +52,7 @@ schedule = tibble(
   "Room Number" = c("Unipark, 4.102", 
                     "Unipark, 4.102", 
                     "Unipark, 4.102"),
-  University = c("University of Postdam", 
+  University = c("University of Potsdam", 
                  "University of Helsinki", 
                  "KU Leuven"), 
   "Lecture Title" = c("TBD", 
