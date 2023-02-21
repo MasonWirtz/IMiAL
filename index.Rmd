@@ -1,0 +1,73 @@
+---
+title: "Innovative Methods in \nApplied Linguistics (IMiAL)"
+image: "photos/lockup-centered-black-transp.png"
+links:
+  - label: E-Mail (Mason Wirtz)
+    url: "mailto:mason.wirtz@plus.ac.at"
+  - label: E-Mail (Eugen Unterberger)
+    url: "mailto:eugen.unterberger@plus.ac.at"
+  - label: E-Mail (Birgit Füreder)
+    url: "mailto:birgitursula.fuereder2@plus.ac.at"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+
+```{r setup, include=FALSE, message = FALSE, warning = FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(DT)
+
+```
+
+
+## Lecture Series
+
+The broad field of applied linguistics has made great methodological strides in the past decade (see, e.g., Gass et al., 2021). Such advances are evident in, e.g., (a) the launching of the *Research Methods in Applied Linguistics* journal (edited by Shaofeng Li), (b) the facilitation of replicability and reproducibility via open materials, open data, and the availability of analyses on databases such as IRIS and Open Science Framework (e.g., Liu et al., in press), (c) the uptake in more complex data analysis procedures such as Bayesian data analysis, generalized additive modeling, and structural equation modeling (e.g., Pfenninger & Neuser, 2020; Raeisi-Vanani et al., 2022), and (d) the advocation of rigorous digital approaches to data collection such as virtual reality (e.g., Peeters, 2019). In light of these advances, the field of applied linguistics has become dense with methodological innovation. That said, this density in potential approaches to data collection and analysis may also be daunting, especially for Early Career Researchers (ECRs). Our goal in this lecture series is thus to bring together socio- and psycholinguistic perspectives on innovative methods in data collection procedures in order to equip ECRs alongside interested faculty with the scaffolding needed so as to engage with some of the most recent methodological advances in applied linguistics. Specifically, the lectures will include topics such as measuring (implicit) language attitudes, natural language processing, eye-tracking, and dialectometric methods. 
+
+This lecture series is <u>open to all interested researchers at the University of Salzburg</u> and will take place on <u>specified Thursdays at 16:00 o’clock</u> (scan the QR code below for dates and lecturers). There will be a small reception after each talk, which affords attendees the opportunity to network with the respective lecturers. 
+
+<br>
+
+
+## Schedule 
+
+Navigate this interactive schedule to find information on the `lecturer`, `date`, `University of employment`, `topic`, `title`, and `room number`. 
+
+```{r,  message = FALSE, warning = FALSE, echo=FALSE}
+
+schedule = tibble(
+  Name = c("Kate STONE", 
+           "Yves SCHERRER", 
+           "Laura ROSSEEL"), 
+  Date = c("04. MAY, 2023", 
+           "25. MAY, 2023", 
+           "29. JUNE, 2023"), 
+  Time = c("16:00 o'clock", 
+           "16:00 o'clock", 
+           "16:00 o'clock"),
+  "Room Number" = c("Unipark, 4.102", 
+                    "Unipark, 4.102", 
+                    "Unipark, 4.102"),
+  University = c("University of Postdam", 
+                 "University of Helsinki", 
+                 "KU Leuven"), 
+  "Lecture Title" = c("TBD", 
+                      "TBD", 
+                      "TBD"),
+  Topic = c("Experimental Psycholinguistics (Eye-Tracking)", 
+            "Natural Language Processing", 
+            "Implicit Association Tasks in Applied Linguistics")
+)
+
+rmarkdown::paged_table(schedule, options = list(cols.print = 3))
+
+```
+
+
+<br>
+<br>
+<br>

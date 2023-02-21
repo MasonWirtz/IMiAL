@@ -1,0 +1,15 @@
+name: "Lecture_Series"
+title: "IMiAL"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Invited Speakers"
+      href: about.html
+    - text: "Organization Team"
+      href: Organization_Team.html
+output: distill::distill_article
+# theme: theme.css

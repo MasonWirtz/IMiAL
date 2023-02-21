@@ -1,0 +1,82 @@
+---
+title: "Invited Speakers"
+image: "photos/lockup-centered-black-transp.png"
+output:
+  postcards::trestles:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Dr. Kate Stone
+
+Lecture Date: 04. MAY, 2023
+
+![](./photos/Kate_Stone.jpeg){width=40%}
+
+Dr. Kate Stone is a psycholinguist in the Cognitive Neuroscience Lab at the University of Potsdam, Germany. Her research interests are in probabilistic sentence processing and how uncertainty and conflict affect readers' linguistic expectations. She uses EEG and computational modelling to examine how these expectations unfold over time.
+
+<details>
+  <summary>Title and Abstract</summary>
+
+TBD
+
+</details> 
+
+
+<br>
+<br>
+<br>
+
+
+
+
+## Dr. Yves Scherrer
+
+Lecture Date: 25. MAY, 2023
+
+
+Dr. Yves Scherrer a university lecturer in Language Technology at the University of Helsinki, where he arrived in March 2017 as a post-doctoral researcher. Prior to that, he spent several years at the University of Geneva.
+
+<details>
+  <summary>Title and Abstract</summary>
+
+TBD
+
+</details> 
+
+
+<br>
+<br>
+<br>
+
+
+
+
+## Dr. Laura Rosseel
+
+Lecture Date: 29. JUNE, 202
+
+![](./photos/Laura_Rosseel.jpeg){width=30%}
+
+Dr. Laura Rosseel's research interests mainly lie in the fields of sociolinguistics, language variation and change, and experimental linguistics. Her PhD research focused on innovating the measurement of the social meaning of language variation. More specifically, she studied on a number of implicit attitude measures recently developed in social psychology and investigated whether it is possible to adapt these new attitude measures and use them to study language attitudes. Laura’s dissertation comprised three studies in which the Personalized Implicit Association Test (P-IAT) and the Relational Responding Task (RRT) are used to measure attitudes towards five varieties of Dutch: Standard Belgian Dutch and four regional varieties of Colloquial Belgian Dutch.
+
+<details>
+  <summary>Title and Abstract</summary>
+
+TBD
+
+</details> 
+
+
+
+<br>
+<br>
+<br>
+
+
+
+

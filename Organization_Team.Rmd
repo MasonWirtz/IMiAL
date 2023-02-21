@@ -1,0 +1,57 @@
+---
+title: "Organization Team"
+image: "photos/lockup-centered-black-transp.png"
+output:
+  postcards::trestles:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+![](./photos/Mason_Picture.jpg){width=25%}
+
+## Mason A. Wirtz
+
+Mason Wirtz is a PhD candidate in the Department of German Language and Literatures. 
+
+E-Mail: mason.wirtz@plus.ac.at
+
+<br>
+<br>
+<br>
+
+
+
+![](./photos/Eugen_Picture.jpg){width=25%}
+
+## Eugen Unterberger
+
+Eugen Unterberger is a PhD candidate in the Department of German Language and Literatures.
+
+E-Mail: eugen.unterberger@plus.ac.at
+
+
+<br>
+<br>
+<br>
+
+
+
+
+![](./photos/Birgit_Picture.jpg){width=25%}
+
+## Birgit Füreder
+
+Birgit Füreder is a PhD candidate in the Department of Romance Languages. 
+
+E-Mail: birgitursula.fuereder2@plus.ac.at
+
+
+<br>
+<br>
+<br>
