@@ -24,7 +24,8 @@ Dr. Kate Stone is a psycholinguist in the Cognitive Neuroscience Lab at the Univ
   
 <br>
   
-**Title: Eyetracking in Psycholinguistics**
+  
+**Analysing the timecourse of experimental effects in eyetracking data**
 
 *Tracking language users' eyes as they read or listen provides us with valuable insights into language cognition. By analysing how the eyes move as new input is received, we can make inferences about changes in cognitive processing. A common question in language cognition research is about the timing of these changes: for example, are non-native listeners slower to comprehend particular types of sentences than native speakers? If so, why? In this talk I will discuss how reading eye tracking and the visual world paradigm can be used for analysing the timecourse of language processing. I will introduce our own method for quantifying and comparing the onsets of experimental effects in visual world data, and show how the method allowed us to answer a question about why non-native speakers might be slower to process particular types of syntactic cues. Overall, the talk should give a broad overview of the issue of timecourse analysis in eye tracking, as well as introduce a specific timecourse analysis method with links to example code and data.*
 
