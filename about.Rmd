@@ -48,8 +48,17 @@ Dr. Yves Scherrer a university lecturer in Language Technology at the University
 
 <details>
   <summary>Title and Abstract</summary>
+  
+<br>
+  
+  
+**Neural machine translation for low-resource and variation-rich languages**
 
-TBD
+*Current machine translation architectures are based on deep neural networks and provide impressive translation quality for the major language pairs. I will start by giving a high-level overview of neural machine translation architectures and then focus on two challenging application scenarios.*
+ 
+*The first scenario concerns low-resource languages. I will present our participation in the AmericasNLP shared task, which focuses on machine translation from Spanish to eleven indigenous languages of the Americas. I describe how a combination of techniques, ranging from data collection to knowledge distillation and post-processing, helps improve the translation quality.*
+ 
+*In the second scenario, I investigate the suitability of neural machine translation techniques for the automatic normalization of phonetic transcriptions in multi-dialectal corpora. In this case, our focus does not lie in optimal normalization performance, but rather what the model learns about the different dialects and their relation with each other during the training process. In our case study with large Finnish and Norwegian dialect corpora, the model successfully identified the major dialect areas known from prior dialectological research.*
 
 </details> 
 
