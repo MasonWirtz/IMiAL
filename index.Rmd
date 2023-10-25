@@ -4,8 +4,6 @@ image: "photos/lockup-centered-black-transp.png"
 links:
   - label: E-Mail (Mason Wirtz)
     url: "mailto:mason.wirtz@plus.ac.at"
-  - label: E-Mail (Eugen Unterberger)
-    url: "mailto:eugen.unterberger@plus.ac.at"
   - label: E-Mail (Birgit Füreder)
     url: "mailto:birgitursula.fuereder2@plus.ac.at"
 output:
@@ -42,25 +40,60 @@ Navigate this interactive schedule to find information on the `lecturer`, `date`
 schedule = tibble(
   Lecturer = c("Kate STONE", 
            "Yves SCHERRER", 
-           "Laura ROSSEEL"), 
+           "Laura ROSSEEL", 
+           "Pia PICHLER", 
+           "Henriette ARNDT", 
+           "Philip VERGEINER", 
+           "Andreas WEILINGHOFF", 
+           "Andreas WEILINGHOFF"), 
   Date = c("04. MAY, 2023", 
            "25. MAY, 2023", 
-           "29. JUNE, 2023"), 
+           "29. JUNE, 2023", 
+           "09. NOVEMBER, 2023", 
+           "16. NOVEMBER, 2023", 
+           "30. NOVEMBER, 2023", 
+           "14. DECEMBER, 2023", 
+           "15. DECEMBER, 2023"), 
   Time = c("16:00 o'clock", 
            "16:00 o'clock", 
-           "16:00 o'clock"),
+           "16:00 o'clock", 
+           "16:00 o'clock", 
+           "17:00 o'clock", 
+           "16:00 o'clock", 
+           "16:00 o'clock",
+           "08:30 - 12:00 o'clock"),
   "Room Number" = c("Unipark, 4.102", 
                     "Unipark, 4.102", 
-                    "Unipark, 4.102"),
+                    "Unipark, 4.102", 
+                    "Unipark, 3.206", 
+                    "Unipark, 3.206", 
+                    "Unipark, 3.206", 
+                    "Unipark, 3.206", 
+                    "Unipark, 3.206"),
   University = c("University of Potsdam", 
                  "University of Helsinki", 
-                 "KU Leuven"), 
+                 "KU Leuven", 
+                 "Goldsmiths, University of London", 
+                 "Lund University", 
+                 "LMU München", 
+                 "University of Koblenz", 
+                 "University of Koblenz"), 
   "Lecture Title" = c("TBD", 
+                      "TBD", 
+                      "TBD", 
+                      "TBD", 
+                      "TBD", 
+                      "TBD", 
                       "TBD", 
                       "TBD"),
   Topic = c("Experimental Psycholinguistics (Eye-Tracking)", 
             "Natural Language Processing", 
-            "Implicit Association Tasks in Applied Linguistics")
+            "Implicit Association Tasks in Applied Linguistics", 
+            "intersectionality, Indexicality and “Voice”", 
+            "Experience Sampling Methods", 
+            "Dialectometry", 
+            "Introduction to Whisper", 
+            "Hands-On Workshop to Whisper")
 )
 
 rmarkdown::paged_table(schedule, options = list(cols.print = 3))
