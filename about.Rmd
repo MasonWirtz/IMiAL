@@ -103,7 +103,7 @@ Lecture Date: 09. NOVEMBER, 2023
 
 ![](./photos/Pichler.jpeg){width=30%}
 
-Dr Pia Pichler is Senior Lecturer in Linguistics and Programme Convenor of the MA Sociocultural Linguistics in the Department of English and Comparative Literature, at Goldsmiths, University of London. Dr. Pichler's research focuses on the discursive construction of intersectional identities in the spontaneous talk of young people, in particular on intersections of language and gender with social class, ethnicity and race, but also on indexicality, humour, double-voicing and authenticity.
+Dr. Pia Pichler is Senior Lecturer in Linguistics and Programme Convenor of the MA Sociocultural Linguistics in the Department of English and Comparative Literature, at Goldsmiths, University of London. Dr. Pichler's research focuses on the discursive construction of intersectional identities in the spontaneous talk of young people, in particular on intersections of language and gender with social class, ethnicity and race, but also on indexicality, humour, double-voicing and authenticity.
 
 <details>
   <summary>Title and Abstract</summary>
@@ -222,7 +222,7 @@ Lecture Date: 14. DECEMBER, 2023 / 15. DECEMBER, 2023
 
 ![](./photos/Weilinghoff.jpeg){width=30%}
 
-JProf. Dr. Andrea Weilinghoff is a junior professor in English linguistics at the University of Koblenz, the youngest university in Germany. He has a passion for speech and speech technology as well as for data processing and analysis.
+JProf. Dr. Andreas Weilinghoff is a junior professor in English linguistics at the University of Koblenz, the youngest university in Germany. He has a passion for speech and speech technology as well as for data processing and analysis.
 
 His research background is rooted in phonetics and sociolinguistics, but there are very smooth transitions into computer linguistics and corpus linguistics.
 One of his major goals is to make the newest technology accessible and usable for teaching and research. While there are many shiny toys and exciting AI tools out there, it is still relatively difficult to implement them effectively for different projects. This is what JProf. Dr. Weilinghoff wants to change.
