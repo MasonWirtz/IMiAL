@@ -6,6 +6,8 @@ links:
     url: "mailto:mason.wirtz@plus.ac.at"
   - label: E-Mail (Birgit Füreder)
     url: "mailto:birgitursula.fuereder2@plus.ac.at"
+  - label: E-Mail (Eugen Unterberger)
+    url: "mailto:eugen.unterberger2@plus.ac.at"
 output:
   postcards::trestles
 site: distill::distill_website
